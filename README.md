@@ -8,7 +8,7 @@
 
 <br>
 
-```html
+```javascript
 <script>
     var contadores = $('#e_000000, #e_000000');
 
